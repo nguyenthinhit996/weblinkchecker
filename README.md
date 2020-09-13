@@ -14,3 +14,10 @@ Làm giảm nghiêm trọng trải nghiệm người dùng: Gây khó chịu và
 Download tool Download Web Link Validator: 
 http://www.relsoftware.com/wlv/downloads/
 Cài Đặt, Sử dụng, report kết quả.
+
+3 video Demo check link của 3 phân hệ người dùng: 
+1) Phân hệ khách vãng lai: chưa đăng nhap:
+
+2) Phân hệ user thường: đăng nhập vs một acccoutn đã tồn tại:
+
+3) Phân hệ admin:
