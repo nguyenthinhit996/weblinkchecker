@@ -40,4 +40,4 @@ Video Demo check link của 3 phân hệ người dùng:
 1) Phân hệ khách vãng lai (chưa đăng nhập): https://youtu.be/MZrBJV3sKPQ
 2) Phân hệ user thường (đăng nhập vs một acccoutn đã tồn tại): https://youtu.be/yYDq36pSVIc
 3) Phân hệ admin (đăng nhập administrator): https://youtu.be/fnvFJge7iVk
-
+Cảm ơn. Chúc thành công.
