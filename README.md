@@ -1,5 +1,11 @@
- 
-Tìm kiếm ,phát hiện link chết ,link không còn khả dụng trên trang web
+ </br>
+ +++++++++++++++++++ Hướng Dẫn sử dụng +++++++++++++++++++++++++++
+ </br>
+ Cấu trúc thư mục
+	Profile Web Link Validator (chứa profile cấu hình sẵn chỉ import vào web_link_vadilator)
+	Phân hệ admin (thư mục chứa file report sau khi web_link_vadilator đã run xong)
+	Phân hệ khách vãng lai thư mục chứa file report sau khi web_link_vadilator đã run xong)
+	Phân hệ user thường thư mục chứa file report sau khi web_link_vadilator đã run xong)
 
 Ý nghĩa: </br>
 Ảnh hưởng của broken link đến SEO: </br>
