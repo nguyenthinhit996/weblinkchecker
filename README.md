@@ -2,13 +2,12 @@
  +++++++++++++++++++ Hướng Dẫn sử dụng +++++++++++++++++++++++++++
  </br>
  Cấu trúc thư mục </br>
- <pre>
-	Profile Web Link Validator (chứa profile cấu hình sẵn chỉ import vào web_link_vadilator) </br>
-	Phân hệ admin (thư mục chứa file report sau khi web_link_vadilator đã run xong) </br>
-	Phân hệ khách vãng lai thư mục chứa file report sau khi web_link_vadilator đã run xong) </br>
-	Phân hệ user thường thư mục chứa file report sau khi web_link_vadilator đã run xong) </br>
-	</pre>
-
+ <ul>
+	<li>Profile Web Link Validator (chứa profile cấu hình sẵn chỉ import vào web_link_vadilator)  </li>
+	<li>Phân hệ admin (thư mục chứa file report sau khi web_link_vadilator đã run xong) </li>
+	<li>Phân hệ khách vãng lai thư mục chứa file report sau khi web_link_vadilator đã run xong) </li>
+	<li>Phân hệ user thường thư mục chứa file report sau khi web_link_vadilator đã run xong) </li>
+ </ul>
 Ý nghĩa: </br>
 Ảnh hưởng của broken link đến SEO: </br>
 	Broken link là một trong những mối nguy hiểm lớn của một website. 
