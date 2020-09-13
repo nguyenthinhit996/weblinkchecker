@@ -26,7 +26,7 @@ Cài Đặt, Sử dụng, report kết quả.
 <img src="./Phân hệ admin/report3.png" alt="Report Broken Link">
 </br></br>
 <img src="./Phân hệ admin/report4.png" alt="Report Link Tree">
-</br>
+</br></br>
 Video Demo check link của 3 phân hệ người dùng: 
 1) Phân hệ khách vãng lai (chưa đăng nhập): https://youtu.be/MZrBJV3sKPQ
 2) Phân hệ user thường (đăng nhập vs một acccoutn đã tồn tại): https://youtu.be/yYDq36pSVIc
