@@ -11,7 +11,7 @@ Làm giảm nghiêm trọng trải nghiệm người dùng: Gây khó chịu và
 
 ==> sử dụng tool Web Link Validator
 
-Download tool Download Web Link Validator: 
+Download tool Web Link Validator: 
 http://www.relsoftware.com/wlv/downloads/
 </br>
 Cài Đặt, Sử dụng, report kết quả.
