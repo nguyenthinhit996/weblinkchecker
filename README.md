@@ -16,9 +16,10 @@ http://www.relsoftware.com/wlv/downloads/
 </br>
 Cài Đặt, Sử dụng, report kết quả.
 </br>
+</br>
 <img src="./Phân hệ admin/export.png" alt="Export file excel">
 </br>
-<img src="./Phân hệ admin/report1.png.png">
+<img src="./Phân hệ admin/report1.png" alt="Report content">
 </br>
 <img src="./Phân hệ admin/report2.png" alt="Report statistics">
 </br>
