@@ -9,13 +9,14 @@
 	<li>Phân hệ user thường thư mục chứa file report sau khi web_link_vadilator đã run xong) </li>
  </ul>
 Ý nghĩa: </br>
+ <ul>
 Ảnh hưởng của broken link đến SEO: </br>
 	<li> Broken link là một trong những mối nguy hiểm lớn của một website
 	Không chỉ ngăn chặn các con bot công cụ tìm kiếm thu thập dữ liệu</li>
 Làm giảm nghiêm trọng trải nghiệm người dùng: 
 	<li>Gây khó chịu và lần sau sẽ ít cơ hội
 	khi người dùng quay lại trang web, làm mất doang thu ...</li>
-	
+	 </ul>
 
 ==> sử dụng tool Web Link Validator
 
