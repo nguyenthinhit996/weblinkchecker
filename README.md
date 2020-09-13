@@ -1,10 +1,10 @@
  
 Tìm kiếm ,phát hiện link chết ,link không còn khả dụng trên trang web
 
-Ý nghĩa: 
-Ảnh hưởng của broken link đến SEO: 
+Ý nghĩa: </br>
+Ảnh hưởng của broken link đến SEO: </br>
 	Broken link là một trong những mối nguy hiểm lớn của một website. 
-	Không chỉ ngăn chặn các con bot công cụ tìm kiếm thu thập dữ liệu
+	Không chỉ ngăn chặn các con bot công cụ tìm kiếm thu thập dữ liệu</br>
 Làm giảm nghiêm trọng trải nghiệm người dùng: Gây khó chịu và lần sau sẽ ít cơ hội
 	khi người dùng quay lại trang web, làm mất doang thu ...
 	
