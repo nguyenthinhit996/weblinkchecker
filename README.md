@@ -13,10 +13,12 @@ Làm giảm nghiêm trọng trải nghiệm người dùng: Gây khó chịu và
 
 Download tool Download Web Link Validator: 
 http://www.relsoftware.com/wlv/downloads/
+</br>
 Cài Đặt, Sử dụng, report kết quả.
+</br>
 <img src="./Phân hệ admin/export.png" alt="Export file excel">
 </br>
-<img src="./Phân hệ admin/report1.png.png" alt="Report Content">
+<img src="./Phân hệ admin/report1.png.png">
 </br>
 <img src="./Phân hệ admin/report2.png" alt="Report statistics">
 </br>
